@@ -9,7 +9,7 @@ import "./footer.css";
   Twitter,
   Instagram,
   talkytu
- } from './assets/footer';
+ } from './assets/Icons';
 
 
  
